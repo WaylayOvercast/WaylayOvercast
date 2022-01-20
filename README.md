@@ -1,6 +1,6 @@
 ### 
 <img src="https://t3.ftcdn.net/jpg/02/68/81/22/360_F_268812279_cVMsQJ8UWfV8k8HO2oqjhRY1XhopgE68.jpg" width="100%" height="300">
-<h2>Hi there <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30" height="30">, I'm Max</h2>
+<h2>Hey there! <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30" height="30"></h2>
 
 <h4>Fullstack Developer</h4>
 <p>🔭 I’m currently working on mastering Node.js in order to create increasingly effective solutions to the world vast need's for better and better API's. </p>
