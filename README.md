@@ -1,4 +1,5 @@
-### Hi there 👋
+### 
+Hi there 👋
 
 <!--
 **WaylayOvercast/WaylayOvercast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src = "https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910">
+<img src = "https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910.gif">
