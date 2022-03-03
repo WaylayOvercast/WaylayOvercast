@@ -12,59 +12,41 @@
 <br></br> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaylayOvercast&layout=compact)   
 
-<h2>Some of The Tools I use &#8595; <h2>
-<p align='center' width='100%'>
-  <img src='https://user-images.githubusercontent.com/86576382/156447920-95be5a0b-f065-4b9f-b8a3-5218362abfd4.png' width= "24%" height = "100rem"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src='https://user-images.githubusercontent.com/86576382/156448131-7d37ff06-64c4-40be-84fd-1b09bca2ed52.png' width= "24%" height = "100rem"/> 
-</p>
-                                                                                                                                                  <!-- NODE, REACT -->
-  
-________________________________
 
-<p align='center' width='100%'>
-  <img src='https://user-images.githubusercontent.com/86576382/156447696-62b08748-8082-4843-95ad-fd287837ec88.png' width= "12%" height = "50rem"/>
-  &nbsp;&nbsp;                                                                                                                                    <!-- EXPRESS, KNEX -->
-  <img src='https://user-images.githubusercontent.com/86576382/156451558-8370fc12-e975-4ddc-a4ff-52d978dd2f0d.png' width= "12%" height = "50rem"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src='https://user-images.githubusercontent.com/86576382/156450154-c2138e50-c132-4ead-a79e-c88596b7a472.png' width= "12%" height = "50rem"/>
-  &nbsp;&nbsp;                                                                                                                                      <!-- RECOIL, REDUX -->
-    <img src ='https://user-images.githubusercontent.com/86576382/156445765-089083e0-5f1a-4b1f-8faa-013e1a4b898f.png' width= "12%" height = "50rem"/>
-</p>
-  <!-- NODE, REACT -->
+  ________________________________
   
-  ______________________________
+<h2>Experience with &#8595; </h2>      
   
-<p align='center' width='100%'>
-  <img src='https://user-images.githubusercontent.com/86576382/156455016-85973328-180f-4be7-97b6-f2f2b78215dc.png' width= "12%" height = "50rem"/>
-  &nbsp;&nbsp;                                                                                                                                    <!-- PSQL, SOCKET.IO -->
-  <img src='https://user-images.githubusercontent.com/86576382/156454272-6fed3807-5e50-4b91-b997-42084a8bfa94.png' width= "12%" height = "50rem"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src='https://user-images.githubusercontent.com/86576382/156454696-ce409b22-f9e5-4d99-9682-a36f50129856.png' width= "12%" height = "50rem"/>
-  &nbsp;&nbsp;                                                                                                                                    <!-- AXIOS, FRAMERMOTION  -->
-    <img src='https://user-images.githubusercontent.com/86576382/156455772-42516ba3-87cc-41c5-885f-7187f83a1942.png' width= "10%" height = "40rem"/>
-</p>
-  
-________________________________
-  
-  
-  <p align="center" width="100%">
-    <img src='https://user-images.githubusercontent.com/86576382/156464549-ea80c269-640e-415f-837f-b17da27b0fc1.png' width= "35%" height = "70rem" /> <!-- PYTHON -->
-  </p>
-  
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+ 
+
   
 ________________________________
+  
   
   
 
-<p align='center' width='100%'>
-  <img src='https://user-images.githubusercontent.com/86576382/156466377-9b32687b-b54d-4aab-9783-3dd05f693a7f.png' width= "24%" height = "50rem" />
-  &nbsp;&nbsp;                                                                                                                                      <!-- PYGAME, FLASK -->
-  <img src='https://user-images.githubusercontent.com/86576382/156466202-529610b5-fec3-43b0-a9f5-fe659cb40806.png' width= "24%" height = "110rem" />
-</p>
   
-<h3>Contact me @</h3>
-<a href="https://www.linkedin.com/in/waylayovercast//"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/512px-LinkedIn_Logo.svg.png"  alt="linkedin" width="150" height="50"></a>
+<h3>Contact &#8595;</h3>
+<a href="https://www.linkedin.com/in/waylayovercast//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="linkedin" width="100rem" height="35rem"/></a>
+&nbsp;&nbsp;
+<a href='https://mail.google.com/mail/u/0/#sent?compose=GTvVlcRzCbfQHDGJjdxlSsgKSkcHldXbBxHDVQjmHKJQbLbtBSKzGqMwDPvmVPSfjBddSRxssGKMP'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' width="100rem" height="35rem"/></a>
 
 
 
