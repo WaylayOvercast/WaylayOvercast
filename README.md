@@ -34,7 +34,8 @@
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
- 
+  <img src="https://user-images.githubusercontent.com/86576382/156860861-e2084bd7-da7f-4e68-a22d-e5d2315fbfe4.png" width= 80rem height= 28rem/>
+
 
   
 ________________________________
