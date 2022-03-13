@@ -46,8 +46,6 @@ ________________________________
   
 <h3>Contact &#8595;</h3>
 <a href="https://www.linkedin.com/in/waylayovercast//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="linkedin" width="100rem" height="35rem"/></a>
-&nbsp;&nbsp;
-<a href='https://mail.google.com/mail/u/0/#sent?compose=GTvVlcRzCbfQHDGJjdxlSsgKSkcHldXbBxHDVQjmHKJQbLbtBSKzGqMwDPvmVPSfjBddSRxssGKMP'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' width="100rem" height="35rem"/></a>
 
 
 
