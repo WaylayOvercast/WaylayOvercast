@@ -35,13 +35,16 @@
   <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' width= 100rem height= 35rem/>
   <img src='https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white' width= 100rem height= 35rem/>
   <img src="https://user-images.githubusercontent.com/86576382/156860861-e2084bd7-da7f-4e68-a22d-e5d2315fbfe4.png" width= 100rem height= 35rem/>
+  <img src="https://user-images.githubusercontent.com/86576382/161637762-7b6a3459-2941-4f33-b7b4-50c62cc9aeb5.png" width= 100rem height= 35rem/>
+  <img src="https://user-images.githubusercontent.com/86576382/161637969-50c70ebd-463d-4e08-b536-b9715bf83ef3.png" width= 100rem height= 35rem/>
+  <img src="https://user-images.githubusercontent.com/86576382/161638312-31aa770c-5fbd-4149-bfe1-56fd09145869.png" width= 100rem height= 35rem>
 </ul>
 
   
 ________________________________
   
-  
-  
+
+
 
   
 <h3>Contact &#8595;</h3>
