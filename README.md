@@ -4,7 +4,7 @@
 
 <h4>Fullstack Developer</h4>
 <p>🔭 I’m currently working on mastering Node.js and Flask in order to come up with increasingly effective solutions for better and better API's. </p>
-<p>🌱 I’m currently learning multiple different python & javascript libraries as well as some low level C++ like SDL2 and SFML. </p>
+<p>🌱 Learning multiple different python & javascript libraries as well as some C++ and Go (using gin). </p>
 <p>👯 Open to collaboration on anything Javascript or Pyhton related. </p>
 
 
