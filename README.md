@@ -3,8 +3,8 @@
 <h2>Hey there! <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30" height="30"></h2>
 
 <h4>Fullstack Developer</h4>
-<p>🔭 I’m currently working on mastering Node.js and Flask in order to come up with increasingly effective solutions for better and better API's. </p>
-<p>🌱 Learning multiple different python & javascript libraries as well as some C++ and Go (using gin). </p>
+<p>🔭 I’m currently devoting time to better understanding AWS and serverless architecture</p>
+<p>🌱 Learning different python & javascript libraries as well as some Go (using gin). </p>
 <p>👯 Open to collaboration on anything Javascript or Pyhton related. </p>
 
 
