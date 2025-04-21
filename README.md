@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=WaylayOvercast)
 <br></br> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaylayOvercast&layout=compact)   
-
+* ^ this is actually no longer accurate, I use about 85% typescript, all in private libraries :^)
 
   ________________________________
   
